@@ -1,0 +1,17 @@
+#Mon Nov 10 19:05:40 EST 2025
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=Matthew
+bluej.teamsettings.git.server=xavier.git-keeper.education
+bluej.teamsettings.yourEmail=renehanm@xaiver.edu
+bluej.teamsettings.git.repositoryPrefix=/home/renehanm/schatzk/csci180f25/FightersInheritanceActivity.git
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=renehanm
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.git.branch=
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=ssh
+bluej.teamsettings.ignore8=\\.DS_Store
